@@ -1,6 +1,6 @@
 # Grupo de Estudos de Programação
 
-Membros:
+### Membros:
 
 - Fernando Concatto
 - Iago Ramos Tasca
