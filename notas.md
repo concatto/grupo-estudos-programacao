@@ -14,5 +14,6 @@
 - Objetos são "coisas" contendo dados e ações. Dados são variáveis, representadas por campos; ações são funções, representadas por métodos.
 - Smalltalk foi uma das linguagens pioneiras no paradigma orientado a objetos. Influenciou diversas outras linguagens e conceitos. Alguns padrões de projetos foram inicialmente desenvolvidos nesta linguagem.
 - Programar orientado a objetos é classificar: modelar elementos da realidade; criar classes; definir seus estados e comportamento.
+- Classes são "moldes"; modelos para objetos.
 - Objetos são instâncias de classes. Por exemplo, uma sala contém várias instâncias da classe da Aluno.
 - Classes se diferem de structs em duas principais formas: structs contém somente dados, enquanto classes também possuem ações; e structs não possuem modificadores de acesso, enquanto classes permitem controlar a exposição de variáveis e funções (estabelecem regras).
