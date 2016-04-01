@@ -17,3 +17,13 @@
 - Classes são "moldes"; modelos para objetos.
 - Objetos são instâncias de classes. Por exemplo, uma sala contém várias instâncias da classe da Aluno.
 - Classes se diferem de structs em duas principais formas: structs contém somente dados, enquanto classes também possuem ações; e structs não possuem modificadores de acesso, enquanto classes permitem controlar a exposição de variáveis e funções (estabelecem regras).
+
+##### UML
+
+- Nomes de classes e atributos devem ser substantivos, enquanto métodos devem ser verbos.
+- Existem diversos diagramas, como classes, sequências e eventos. A disciplina abordará apenas diagramas de classe, que contém nome, atributos, métodos e relações.
+- Símbolos de visibilidade: + para público, - para privado, # para protegido.
+- Relações possuem navegabilidade. Duas classes podem conhecer umas às outras, ou apenas uma pode conhecer a outra.
+- Existem diversos tipos de relações: associação, agregação, composição, herança e dependência.
+- Associação e agregação são similares: indicam uma relação fraca, onde um pode existir sem o outro.
+- Composição é uma relação mais forte, onde um não pode existir sem o outro (gerencia sua existência).
