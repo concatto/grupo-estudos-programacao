@@ -7,6 +7,7 @@
 - Igor Kiel Fruehauf
 - Jefferson Kuhn Schmitt
 - Michael Gonçalves
+- Paulo José Neves Neto 
 - Thiago Valente
 - Tiago Cristiano Appi
 
